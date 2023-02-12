@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Tolis</h1>
 <h3 align="left">An Electrical and Computer Engineer, interested in learning and exploring.</h3>
 
-- 🔭 I’m currently working on Machine Learning APIs
+- 🔭 I’m currently working on Machine Learning APIs.
 - 🌱 I’m currently learning MLOps tools.
-- ⚡ Fun fact: You can never learn enough 
+- ⚡ Fun fact: You can never learn enough.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
