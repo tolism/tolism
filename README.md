@@ -46,8 +46,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tolism&show_icons=true&locale=en" alt="tolism" /></p>
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tolism&label=Vistors&color=0e75b6&style=flat" alt="tolism" /> </p>
