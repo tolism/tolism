@@ -1,8 +1,9 @@
 <h1 align="left">Hi 👋, I'm Tolis</h1>
 <h3 align="left">An Electrical and Computer Engineer, interested in learning and exploring.</h3>
 
-- 🔭 I’m currently working on Machine Learning APIs.
-- 🌱 I’m currently learning MLOps tools.
+- 🔭 Currently, contributing as a Solutions Architect and R&D Engineer.
+- 🌱 Developing and deploying machine learning algorithms to analyze behavioral data.
+- 🔍 Intrigued by self-supervised learning methods and eager to delve into the adaptation of large language models in time-series data.
 - ⚡ Fun fact: You can never learn enough.
 
 <h3 align="left">Connect with me:</h3>
